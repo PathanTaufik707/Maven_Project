@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="BrowserName" value="Firefox"/>
+  <test thread-count="5" name="C:/Users/User/IdeaProjects/Maven_Project/src/test/java/Selenium(failed)">
+    <classes>
+      <class name="Selenium.PriorityExample">
+        <methods>
+          <include name="TestCaseD"/>
+        </methods>
+      </class> <!-- Selenium.PriorityExample -->
+    </classes>
+  </test> <!-- C:/Users/User/IdeaProjects/Maven_Project/src/test/java/Selenium(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->

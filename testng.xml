@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <parameter name="BrowserName" value="Firefox"></parameter>
+
+
+
+    <test verbose="7" preserve-order="true" name="C:/Users/User/IdeaProjects/Maven_Project/src/test/java/Selenium">
+        <classes>
+            <class name="Selenium.PriorityExample"></class>
+
+
+        </classes>
+    </test>
+</suite>
