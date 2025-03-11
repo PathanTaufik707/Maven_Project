@@ -8,6 +8,8 @@ public class TestngInnovacation {
     public static void RepaetedTestEx(){
 
         System.out.println("Repet Test Example");
+        System.out.println("hello");
+
     }
 
 
