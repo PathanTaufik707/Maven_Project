@@ -8,8 +8,7 @@ public class IntroductionOfTestNG {
 
     public static void TestNG(){
 
-        WebDriver driver = new ChromeDriver();
-
+       
         driver.get("https://qualitykiosk.com/");
 
         driver.close();
