@@ -11,7 +11,7 @@ public class SeleniumDemo {
 
         WebDriver driver = new ChromeDriver();
 
-        driver.manage().window().maximize(....);
+        driver.manage().window().maximize(???);
 
         driver.get("https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java/4.29.0");
 
